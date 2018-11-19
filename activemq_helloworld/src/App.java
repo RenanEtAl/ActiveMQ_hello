@@ -1,10 +1,4 @@
-/**
- * 
- */
-/**
- * @author Renan
- *
- */
+
 import org.apache.activemq.ActiveMQConnectionFactory;
  
 import javax.jms.Connection;
